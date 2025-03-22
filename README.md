@@ -118,4 +118,4 @@ Contact :-
   
   GitHub: https://github.com/harshvardhan-2003
   
-  LinkedIn: linkedin.com/in/harshvardhan2907
+  LinkedIn: https://linkedin.com/in/harshvardhan2907
