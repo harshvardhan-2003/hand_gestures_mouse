@@ -1,4 +1,4 @@
-# had_gestures_mouse
+# hand_gestures_mouse
 HAND GESTURES MOUSE CONTROL :- 
 OVERVIEW -
 This project demonstrates how to control the mouse cursor using hand gestures in real-time. It leverages computer vision techniques with OpenCV, hand tracking using MediaPipe, and mouse control using PyAutoGUI. The program captures video from a webcam, detects hand landmarks, and maps the position of the index finger to the mouse cursor on the screen. Additionally, it detects a click gesture when the thumb is close to the index finger.
